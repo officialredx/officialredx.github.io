@@ -22,6 +22,10 @@ li{list-style:none}
    My CSS
    ========================================================================== */
 
+<audio src="https://youtu.be/x0nln2w4k9s" autoplay="autoplay"  loop="loop" id="MusicPlayer">
+<embed src="https://youtu.be/x0nln2w4k9s" autoplay="true" width="450" height="300" name="MusicPlayer" id="MusicPlayer">
+</audio>
+
 /* ---- base ---- */
 
 html,body{ 
