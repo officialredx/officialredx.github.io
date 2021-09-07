@@ -118,5 +118,6 @@ canvas{
 }
 .myButton:active {
 	position:relative;
-	top:1px;
+	top: 50px;
+        left: 50px;
 }
