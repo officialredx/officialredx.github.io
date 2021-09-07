@@ -36,8 +36,8 @@ html{
 
 body{
  text-align: center;
- margin: 0px;
- padding: 0px;
+ top: 50px;
+ left: 50px;
   font:normal 75% Arial, Helvetica, sans-serif;
 }
 
