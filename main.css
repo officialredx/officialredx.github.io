@@ -105,7 +105,8 @@ canvas{
 	border-radius:18px;
 	border:8px solid #d02718;
 	display:inline-block;
-        line-height: 300;
+        top: 50px;
+        left: 50px;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Impact;
